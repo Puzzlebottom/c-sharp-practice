@@ -1,0 +1,14 @@
+/Users/conormeldrum/Documents/codebases/c#test/02/obj/Debug/net7.0/02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/conormeldrum/Documents/codebases/c#test/02/obj/Debug/net7.0/02.AssemblyInfoInputs.cache
+/Users/conormeldrum/Documents/codebases/c#test/02/obj/Debug/net7.0/02.AssemblyInfo.cs
+/Users/conormeldrum/Documents/codebases/c#test/02/obj/Debug/net7.0/02.csproj.CoreCompileInputs.cache
+/Users/conormeldrum/Documents/codebases/c#test/02/bin/Debug/net7.0/02
+/Users/conormeldrum/Documents/codebases/c#test/02/bin/Debug/net7.0/02.deps.json
+/Users/conormeldrum/Documents/codebases/c#test/02/bin/Debug/net7.0/02.runtimeconfig.json
+/Users/conormeldrum/Documents/codebases/c#test/02/bin/Debug/net7.0/02.dll
+/Users/conormeldrum/Documents/codebases/c#test/02/bin/Debug/net7.0/02.pdb
+/Users/conormeldrum/Documents/codebases/c#test/02/obj/Debug/net7.0/02.dll
+/Users/conormeldrum/Documents/codebases/c#test/02/obj/Debug/net7.0/refint/02.dll
+/Users/conormeldrum/Documents/codebases/c#test/02/obj/Debug/net7.0/02.pdb
+/Users/conormeldrum/Documents/codebases/c#test/02/obj/Debug/net7.0/02.genruntimeconfig.cache
+/Users/conormeldrum/Documents/codebases/c#test/02/obj/Debug/net7.0/ref/02.dll
