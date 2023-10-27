@@ -1,0 +1,14 @@
+/Users/conormeldrum/Documents/codebases/c#test/10/Final/bin/Debug/net7.0/Final
+/Users/conormeldrum/Documents/codebases/c#test/10/Final/bin/Debug/net7.0/Final.deps.json
+/Users/conormeldrum/Documents/codebases/c#test/10/Final/bin/Debug/net7.0/Final.runtimeconfig.json
+/Users/conormeldrum/Documents/codebases/c#test/10/Final/bin/Debug/net7.0/Final.dll
+/Users/conormeldrum/Documents/codebases/c#test/10/Final/bin/Debug/net7.0/Final.pdb
+/Users/conormeldrum/Documents/codebases/c#test/10/Final/obj/Debug/net7.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/conormeldrum/Documents/codebases/c#test/10/Final/obj/Debug/net7.0/Final.AssemblyInfoInputs.cache
+/Users/conormeldrum/Documents/codebases/c#test/10/Final/obj/Debug/net7.0/Final.AssemblyInfo.cs
+/Users/conormeldrum/Documents/codebases/c#test/10/Final/obj/Debug/net7.0/Final.csproj.CoreCompileInputs.cache
+/Users/conormeldrum/Documents/codebases/c#test/10/Final/obj/Debug/net7.0/Final.dll
+/Users/conormeldrum/Documents/codebases/c#test/10/Final/obj/Debug/net7.0/refint/Final.dll
+/Users/conormeldrum/Documents/codebases/c#test/10/Final/obj/Debug/net7.0/Final.pdb
+/Users/conormeldrum/Documents/codebases/c#test/10/Final/obj/Debug/net7.0/Final.genruntimeconfig.cache
+/Users/conormeldrum/Documents/codebases/c#test/10/Final/obj/Debug/net7.0/ref/Final.dll
