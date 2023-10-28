@@ -19,7 +19,7 @@ string[] studentNames = new string[] { "Sophia", "Andrew", "Emma", "Logan", "Bec
 int[] studentScores = new int[10];
 string currentStudentLetterGrade = "";
 
-Console.WriteLine("Student\t\tGrade\n");
+Console.WriteLine("Student\t\tExam Score\tOverall Grade\tExtra Credit\n");
 
 foreach (string name in studentNames)
 {
@@ -100,7 +100,7 @@ foreach (string name in studentNames)
 
   else currentStudentLetterGrade = "F";
 
-  Console.WriteLine($"{currentStudent}:\t\t{currentStudentGrade}\t{currentStudentLetterGrade}");
+  Console.WriteLine($"{currentStudent}\t\t0\t\t{currentStudentGrade}\t{currentStudentLetterGrade}\t0 (0pts)");
 }
 
 
