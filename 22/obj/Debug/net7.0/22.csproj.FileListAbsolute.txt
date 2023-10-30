@@ -1,0 +1,14 @@
+/Users/conormeldrum/Documents/codebases/c#test/22/bin/Debug/net7.0/22
+/Users/conormeldrum/Documents/codebases/c#test/22/bin/Debug/net7.0/22.deps.json
+/Users/conormeldrum/Documents/codebases/c#test/22/bin/Debug/net7.0/22.runtimeconfig.json
+/Users/conormeldrum/Documents/codebases/c#test/22/bin/Debug/net7.0/22.dll
+/Users/conormeldrum/Documents/codebases/c#test/22/bin/Debug/net7.0/22.pdb
+/Users/conormeldrum/Documents/codebases/c#test/22/obj/Debug/net7.0/22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/conormeldrum/Documents/codebases/c#test/22/obj/Debug/net7.0/22.AssemblyInfoInputs.cache
+/Users/conormeldrum/Documents/codebases/c#test/22/obj/Debug/net7.0/22.AssemblyInfo.cs
+/Users/conormeldrum/Documents/codebases/c#test/22/obj/Debug/net7.0/22.csproj.CoreCompileInputs.cache
+/Users/conormeldrum/Documents/codebases/c#test/22/obj/Debug/net7.0/22.dll
+/Users/conormeldrum/Documents/codebases/c#test/22/obj/Debug/net7.0/refint/22.dll
+/Users/conormeldrum/Documents/codebases/c#test/22/obj/Debug/net7.0/22.pdb
+/Users/conormeldrum/Documents/codebases/c#test/22/obj/Debug/net7.0/22.genruntimeconfig.cache
+/Users/conormeldrum/Documents/codebases/c#test/22/obj/Debug/net7.0/ref/22.dll
