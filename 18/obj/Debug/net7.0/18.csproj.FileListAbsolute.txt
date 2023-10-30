@@ -1,0 +1,14 @@
+/Users/conormeldrum/Documents/codebases/c#test/18/bin/Debug/net7.0/18
+/Users/conormeldrum/Documents/codebases/c#test/18/bin/Debug/net7.0/18.deps.json
+/Users/conormeldrum/Documents/codebases/c#test/18/bin/Debug/net7.0/18.runtimeconfig.json
+/Users/conormeldrum/Documents/codebases/c#test/18/bin/Debug/net7.0/18.dll
+/Users/conormeldrum/Documents/codebases/c#test/18/bin/Debug/net7.0/18.pdb
+/Users/conormeldrum/Documents/codebases/c#test/18/obj/Debug/net7.0/18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/conormeldrum/Documents/codebases/c#test/18/obj/Debug/net7.0/18.AssemblyInfoInputs.cache
+/Users/conormeldrum/Documents/codebases/c#test/18/obj/Debug/net7.0/18.AssemblyInfo.cs
+/Users/conormeldrum/Documents/codebases/c#test/18/obj/Debug/net7.0/18.csproj.CoreCompileInputs.cache
+/Users/conormeldrum/Documents/codebases/c#test/18/obj/Debug/net7.0/18.dll
+/Users/conormeldrum/Documents/codebases/c#test/18/obj/Debug/net7.0/refint/18.dll
+/Users/conormeldrum/Documents/codebases/c#test/18/obj/Debug/net7.0/18.pdb
+/Users/conormeldrum/Documents/codebases/c#test/18/obj/Debug/net7.0/18.genruntimeconfig.cache
+/Users/conormeldrum/Documents/codebases/c#test/18/obj/Debug/net7.0/ref/18.dll
