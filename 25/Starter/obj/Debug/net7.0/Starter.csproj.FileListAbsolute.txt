@@ -1,0 +1,14 @@
+/Users/conormeldrum/Documents/codebases/c#test/25/Starter/bin/Debug/net7.0/Starter
+/Users/conormeldrum/Documents/codebases/c#test/25/Starter/bin/Debug/net7.0/Starter.deps.json
+/Users/conormeldrum/Documents/codebases/c#test/25/Starter/bin/Debug/net7.0/Starter.runtimeconfig.json
+/Users/conormeldrum/Documents/codebases/c#test/25/Starter/bin/Debug/net7.0/Starter.dll
+/Users/conormeldrum/Documents/codebases/c#test/25/Starter/bin/Debug/net7.0/Starter.pdb
+/Users/conormeldrum/Documents/codebases/c#test/25/Starter/obj/Debug/net7.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/conormeldrum/Documents/codebases/c#test/25/Starter/obj/Debug/net7.0/Starter.AssemblyInfoInputs.cache
+/Users/conormeldrum/Documents/codebases/c#test/25/Starter/obj/Debug/net7.0/Starter.AssemblyInfo.cs
+/Users/conormeldrum/Documents/codebases/c#test/25/Starter/obj/Debug/net7.0/Starter.csproj.CoreCompileInputs.cache
+/Users/conormeldrum/Documents/codebases/c#test/25/Starter/obj/Debug/net7.0/Starter.dll
+/Users/conormeldrum/Documents/codebases/c#test/25/Starter/obj/Debug/net7.0/refint/Starter.dll
+/Users/conormeldrum/Documents/codebases/c#test/25/Starter/obj/Debug/net7.0/Starter.pdb
+/Users/conormeldrum/Documents/codebases/c#test/25/Starter/obj/Debug/net7.0/Starter.genruntimeconfig.cache
+/Users/conormeldrum/Documents/codebases/c#test/25/Starter/obj/Debug/net7.0/ref/Starter.dll
