@@ -1,0 +1,14 @@
+/Users/conormeldrum/Documents/codebases/c#test/30/bin/Debug/net7.0/30
+/Users/conormeldrum/Documents/codebases/c#test/30/bin/Debug/net7.0/30.deps.json
+/Users/conormeldrum/Documents/codebases/c#test/30/bin/Debug/net7.0/30.runtimeconfig.json
+/Users/conormeldrum/Documents/codebases/c#test/30/bin/Debug/net7.0/30.dll
+/Users/conormeldrum/Documents/codebases/c#test/30/bin/Debug/net7.0/30.pdb
+/Users/conormeldrum/Documents/codebases/c#test/30/obj/Debug/net7.0/30.GeneratedMSBuildEditorConfig.editorconfig
+/Users/conormeldrum/Documents/codebases/c#test/30/obj/Debug/net7.0/30.AssemblyInfoInputs.cache
+/Users/conormeldrum/Documents/codebases/c#test/30/obj/Debug/net7.0/30.AssemblyInfo.cs
+/Users/conormeldrum/Documents/codebases/c#test/30/obj/Debug/net7.0/30.csproj.CoreCompileInputs.cache
+/Users/conormeldrum/Documents/codebases/c#test/30/obj/Debug/net7.0/30.dll
+/Users/conormeldrum/Documents/codebases/c#test/30/obj/Debug/net7.0/refint/30.dll
+/Users/conormeldrum/Documents/codebases/c#test/30/obj/Debug/net7.0/30.pdb
+/Users/conormeldrum/Documents/codebases/c#test/30/obj/Debug/net7.0/30.genruntimeconfig.cache
+/Users/conormeldrum/Documents/codebases/c#test/30/obj/Debug/net7.0/ref/30.dll
